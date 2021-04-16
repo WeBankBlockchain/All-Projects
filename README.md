@@ -140,14 +140,14 @@ git地址：[https://github.com/WeBankBlockchain/SmartDev-Contract](https://gith
 
 gitee地址：[https://gitee.com/WeBankBlockchain/SmartDev-Contract](https://gitee.com/WeBankBlockchain/SmartDev-Contract)
 
-文档地址：https://toolkit-doc.readthedocs.io/zh_CN/latest/docs/WeBankBlockchain-SmartDev-Contract/index.html
+文档地址：https://smartdev-doc.readthedocs.io/zh_CN/latest/docs/WeBankBlockchain-SmartDev-Contract/index.html
 
 ### SmartDev-SCGP  合约编译插件
 git地址：[https://github.com/WeBankBlockchain/SmartDev-SCGP](https://github.com/WeBankBlockchain/SmartDev-SCGP)
 
 gitee地址：[https://gitee.com/WeBankBlockchain/SmartDev-SCGP](https://gitee.com/WeBankBlockchain/SmartDev-SCGP)
 
-文档地址：https://toolkit-doc.readthedocs.io/zh_CN/latest/docs/WeBankBlockchain-SmartDev-SCGP/index.html
+文档地址：https://smartdev-doc.readthedocs.io/zh_CN/latest/docs/WeBankBlockchain-SmartDev-SCGP/index.html
 
 
 ### SmartDev-Scaffold  应用开发脚手架
@@ -155,4 +155,4 @@ git地址：[https://github.com/WeBankBlockchain/SmartDev-Scaffold](https://gith
 
 gitee地址：[https://gitee.com/WeBankBlockchain/SmartDev-Scaffold](https://gitee.com/WeBankBlockchain/SmartDev-Scaffold)
 
-文档地址：https://toolkit-doc.readthedocs.io/zh_CN/latest/docs/WeBankBlockchain-SmartDev-Scaffold/index.html
+文档地址：https://smartdev-doc.readthedocs.io/zh_CN/latest/docs/WeBankBlockchain-SmartDev-Scaffold/index.html
